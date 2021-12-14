@@ -6,10 +6,10 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/jinsb/Desktop/json-simple-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jinsb/Desktop/jackson-databind-2.13.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jinsb/Desktop/jackson-core-2.13.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jinsb/Desktop/jackson-annotations-2.13.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/jinsb/Desktop/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/stsworkspace/LoLtpolio/lib/jackson-annotations-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/stsworkspace/LoLtpolio/lib/jackson-core-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/stsworkspace/LoLtpolio/lib/jackson-databind-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/stsworkspace/LoLtpolio/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/stsworkspace/LoLtpolio/lib/mysql-connector-java-5.1.46.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
